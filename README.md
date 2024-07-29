@@ -1,0 +1,2 @@
+# stock_selection
+碩論的簡化版、缺少了很多feature提取及神經網路模型建構
